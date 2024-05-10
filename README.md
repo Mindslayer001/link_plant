@@ -1,6 +1,4 @@
-Certainly! Below is a template for a GitHub README for your Django project similar to "Link Plant":
-
-# Project Name
+# Link_Plant
 
 Branching
 
