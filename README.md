@@ -70,7 +70,9 @@ Visit http://localhost:8000/ in your browser to access the application.
 
 
 ### ScreenShots
+![Preview Image 1](/images/Screenshot%20from%202024-05-11%2015-44-39.png)
+![Preview Image 1](/images/Screenshot%20from%202024-05-11%2015-44-50.png)
 ![Preview Image 1](images/Screenshot%20from%202024-05-11%2015-37-44.png)
-![Preview Image 1](images/Screenshot from 2024-05-11 15-42-36.png)
-![Preview Image 1](/path/to/preview/image1.jpg)
+![Preview Image 1](images/Screenshot%20from%202024-05-11%2015-42-36.png)
+![Preview Image 1](images/Screenshot%20from%202024-05-11%2015-44-24.png)
 
