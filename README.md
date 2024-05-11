@@ -67,3 +67,10 @@ python manage.py runserver
 ```
 
 Visit http://localhost:8000/ in your browser to access the application.
+
+
+### ScreenShots
+![Preview Image 1](/path/to/preview/image1.jpg)
+![Preview Image 1](/path/to/preview/image1.jpg)
+![Preview Image 1](/path/to/preview/image1.jpg)
+
