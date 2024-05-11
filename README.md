@@ -1,10 +1,15 @@
 # Link_Plant
 
-Branching
-
 ## Description
 
 Braching is a Django-based link management and bookmarking platform, inspired by services like Link Plant. This project empowers users to organize, share, and discover interesting links efficiently. Whether you're curating a collection of resources or sharing links with a community, Branching provides a robust solution for link management.
+
+### ScreenShots
+![Preview Image 1](/images/Screenshot%20from%202024-05-11%2015-44-50.png)
+![Preview Image 1](/images/Screenshot%20from%202024-05-11%2015-44-39.png)
+![Preview Image 1](images/Screenshot%20from%202024-05-11%2015-42-36.png)
+![Preview Image 1](images/Screenshot%20from%202024-05-11%2015-44-24.png)
+
 
 ## Features
 
@@ -67,11 +72,3 @@ python manage.py runserver
 ```
 
 Visit http://localhost:8000/ in your browser to access the application.
-
-
-### ScreenShots
-![Preview Image 1](/images/Screenshot%20from%202024-05-11%2015-44-50.png)
-![Preview Image 1](/images/Screenshot%20from%202024-05-11%2015-44-39.png)
-![Preview Image 1](images/Screenshot%20from%202024-05-11%2015-42-36.png)
-![Preview Image 1](images/Screenshot%20from%202024-05-11%2015-44-24.png)
-
